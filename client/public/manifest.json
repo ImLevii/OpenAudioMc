@@ -1,6 +1,6 @@
 {
-  "short_name": "OpenAudioMc",
-  "name": "OpenAudioMc Web Client",
+  "short_name": "HcRaid - Proximity Voice Client",
+  "name": "HcRaid - Proximity Voice Client",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
