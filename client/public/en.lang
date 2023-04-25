@@ -15,7 +15,7 @@ navbar.premium=premium
 
 home.confirmLoginHeader=Welcome back!
 home.confirmLoginBody=Are you trying to login as <i>%player</i>?<br />If you are not, please close this window.
-home.confirmLoginButton=Yes! That's me!
+home.confirmLoginButton=Confirm
 
 home.activate=Activate session
 home.activateText=This is personal webpage will be used to play your audio and voice throughout your visit. Please click anywhere on this page to get started.
@@ -66,7 +66,7 @@ vc.join=Join Voice Chat
 vc.muteMicrophone=Mute
 vc.unmuteMicrophone=Unmute
 vc.myStatus=Your own microphone status
-vc.hero.title=Welcome to VoiceChat!
+vc.hero.title=Welcome to HcRaid's Voice Chat!
 vc.hero.subtitle=This is your voice chat dashboard, here you can see who is in range of your voice, and who you can hear. You can also mute people if you don't want to hear them.
 vc.statusTitle=My status
 vc.settings.globalVolumeTitle=General VoiceChat volume
@@ -93,7 +93,7 @@ hue.light3=Light three
 hue.connected=You may now link up to three lights that the server will control. Usually from right to left.
 hue.close=Close
 
-notification.success=Hurray! you'll now receive notifications
+notification.success=You'll now receive notifications!
 notification.test.title=Testing testing 123
 notification.test.body=It worked! you have configured Notifications correctly!
 notification.info.voicechat=<div style="text-align: center;" class="medium-text">This server supports <b>Proximity Voice Chat</b>! go to the <b>VoiceChat</b> tab to hop in and talk to others.</div>
@@ -115,7 +115,7 @@ settings.mix-and-fade.title=Automatic music mixing
 settings.mix-and-fade.body=Automatically cross-fade and mix audio sources
 settings.mix-and-fade.button=Enable mixing
 settings.preload.title=Automatically preload audio files
-settings.preload.body=With this enabled, OpenAudioMc will automatically preload files that are often used around your in-game location. This will make audio more responsive, but uses more data.
+settings.preload.body=With this enabled, Audio will automatically preload files that are often used around your in-game location. This will make audio more responsive, but uses more data.
 settings.preload.button=Enable preloading
 settings.rolloff.title=3D Audio Rolloff
 settings.rolloff.body=This controls the amount of dampening applied to 3D audio based on distance. The 0% is no dampening, the 100% is full dampening. This applies to both speakers and voice chat.
