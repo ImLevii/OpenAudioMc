@@ -11,13 +11,13 @@
 
     <name>OpenAudioMc-parent</name>
 
-    <description>The OpenAudioMc Java plugin and Api</description>
+    <description>The HcRaid.net Voice Java plugin / Api</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <oa.version>6.8</oa.version>
     </properties>
 
-    <url>https://openaudiomc.net/</url>
+    <url>https://hcraid.net/</url>
 
     <modules>
         <module>modules/jutils</module>
